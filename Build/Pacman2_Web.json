@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PacMan3D",
+"productVersion": "0.1",
+"dataUrl": "Pacman2_Web.data.unityweb",
+"wasmCodeUrl": "Pacman2_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Pacman2_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Pacman2_Web.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
